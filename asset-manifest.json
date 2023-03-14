@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nit-patna-placement-status/static/css/main.085da285.css",
+    "main.js": "/nit-patna-placement-status/static/js/main.84d95244.js",
+    "static/js/787.5de8edc3.chunk.js": "/nit-patna-placement-status/static/js/787.5de8edc3.chunk.js",
+    "index.html": "/nit-patna-placement-status/index.html",
+    "main.085da285.css.map": "/nit-patna-placement-status/static/css/main.085da285.css.map",
+    "main.84d95244.js.map": "/nit-patna-placement-status/static/js/main.84d95244.js.map",
+    "787.5de8edc3.chunk.js.map": "/nit-patna-placement-status/static/js/787.5de8edc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085da285.css",
+    "static/js/main.84d95244.js"
+  ]
+}
