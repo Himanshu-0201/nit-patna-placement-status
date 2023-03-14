@@ -11,7 +11,7 @@ import FullTimeStudentsList from './pages/FullTimeStudentsList';
 
 const router = createBrowserRouter([
     {
-        path : "/",
+        path : "/nit-patna-placement-status",
         element : <RootLayOut />,
         children : [
             {
