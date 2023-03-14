@@ -1,0 +1,44 @@
+.header{
+   background: #3F979B;
+}
+
+.nav{
+    width: 60%;
+    margin-left: 3%;
+    --bs-bg-opacity : 0;
+}
+
+.container{
+    max-width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.pages{
+    margin-left: auto;
+}
+
+.pages a{
+    color: white !important;
+    text-decoration: none;
+}
+
+.pages a:hover{
+    text-decoration: underline;
+    color: #C5D7BD !important;
+}
+
+.active {
+    text-decoration: underline ;
+    color: #C5D7BD !important;
+}
+
+.full-time{
+    margin-right: 1rem;
+}
+
+@media screen and (max-width : 990px) {
+    .nav{
+        width: 94%;
+    }
+}

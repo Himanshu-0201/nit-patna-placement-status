@@ -1,0 +1,42 @@
+.Table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.Table th,
+.Table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th{
+  background-color: #eee;
+}
+
+.table-box{
+  width: 60%;
+  margin-left: 3%;
+}
+
+.sequence-number{
+  width: 5%;
+}
+
+.first-child{
+  text-align: center !important;
+}
+
+.company-detail{
+  display: flex;
+  /* width: 60%; */
+  margin-left: 3%;
+  padding: 0.5rem 0rem;
+}
+
+
+@media screen and (max-width : 990px) {
+  .table-box{
+    width: 94%;
+  }
+}
